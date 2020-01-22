@@ -8,7 +8,12 @@ public class DragDrop {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Atul Kojage\\eclipse-workspace\\SeleDrag7\\div7\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("http:\\demo.guru.99.com\\test\\drag_drop.html");
+
 		System.out.println("drag");
+
+		System.out.println("marjava");
+		System.out.println("mitjava");
+
 		
 		
 	}
