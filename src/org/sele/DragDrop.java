@@ -9,7 +9,7 @@ public class DragDrop {
 		WebDriver driver=new ChromeDriver();
 		driver.get("http:\\demo.guru.99.com\\test\\drag_drop.html");
 		System.out.println("last updation");
-		
+		System.out.println("new data");
 		
 	}
 
